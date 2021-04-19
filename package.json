@@ -1,7 +1,7 @@
 {
   "name": "create-atomic-react-app",
   "version": "0.0.1",
-  "description": "Setup Atomic React App web app with just one command.",
+  "description": "Setup Atomic React web app with just one command.",
   "main": "index.js",
   "bin": {
     "create-atomic-react-app": "index.js"
