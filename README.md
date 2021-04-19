@@ -35,9 +35,7 @@ npm start
 
 <h2 style="color: #2196F3">Happy Hacking! 🚀</h2>
 
-<!-- <style> -->
-
-body{
+<!--- <style> body{
 display: flex;
 flex-direction: column;
 gap: 10px;
@@ -62,7 +60,6 @@ padding: 10px;
 background: #2196F3;
 border-radius: 8px;
 }
-
 .help {
 padding: 20px;
 display: flex;
@@ -72,6 +69,4 @@ height: fit-content;
 justify-content: center;
 background: lightgray;
 color: #212121;
-}
-
-</style>
+}</style> --->
