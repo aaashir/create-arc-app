@@ -1,0 +1,21 @@
+{
+  "name": "create-atomic-react-app",
+  "version": "0.0.1",
+  "description": "Create Atomic React Apps with just one command!",
+  "main": "index.js",
+  "bin": {
+    "create-atomic-react-app": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arc"
+  ],
+  "author": "Aashir Shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "shelljs": "^0.8.4"
+  }
+}
