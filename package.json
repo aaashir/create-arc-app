@@ -1,10 +1,10 @@
 {
-  "name": "create-atomic-react-app",
-  "version": "0.0.1",
+  "name": "create-arc-app",
+  "version": "0.0.2",
   "description": "Setup Atomic React web app with just one command.",
   "main": "index.js",
   "bin": {
-    "create-atomic-react-app": "index.js"
+    "create-arc-app": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

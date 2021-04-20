@@ -58,6 +58,6 @@ const run = async () => {
   console.log("\nAll done 😊\n");
   console.log(`\ncd ${appName}\n`.blue);
   console.log(`\nnpm run dev\n`.blue);
-  console.log(`\nNote: New commad "create-arc-app" coming soon!\n`.yellow);
+  // console.log(`\nNote: New commad "create-arc-app" coming soon!\n`.yellow);
 };
 run();
